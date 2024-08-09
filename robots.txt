@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Designed4Submariners.com/sitemap.xml
